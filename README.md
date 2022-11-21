@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShellDren
 - 👀 I’m interested in learning more about C#/.NET
-- 🌱 I’m currently finishing college with learning advanced C#/.NET and C++
+- 🌱 I recently graduated with AAS degrees in CIS and COT. 
 - I've also learned Python, HTML, CSS, JavaScript, PHP during these last two years
 - 💞️ I’m looking to collaborate on creating functional programs that increase my skills and knowledge of C#/.NET
 - 📫 How to reach me ... michelledrenzek@gmail.com
